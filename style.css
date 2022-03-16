@@ -1,0 +1,29 @@
+body {
+  background-color: pink;
+  background-image: url("img/866f30792413dcb70ce06c91c1ad3f4e.gif");
+}
+
+h1 {
+  display: block;
+  color: white;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+img {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cin {
+  margin-top: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+h3 {
+  color: white;
+}
